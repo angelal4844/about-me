@@ -10,6 +10,11 @@
 * Perod 7: Spanish 
 * Period 8: Global History 
 # Bio 
-Hello! My name is Angela Lu. I am in the High school of Telecommunications Arts and Technology. I like to draw, sing, and play games. I have a older sister and a younger brother. I like to draw different cartoon characters and different places. Some games I like to play are Genshin Impact and Roblox. I like to eat ice cream 
-and candy. My flavorite ice cream is vanilla and strawberry. I like to take pictures when I see something interesting or beautiful.
+Hello! My name is Angela Lu. I am in the High school of Telecommunication Arts and Technology. I like to draw, sing, and play games. I have a older sister and a younger brother. I like to draw different cartoon characters and different places. Some games I like to play are Genshin Impact and Roblox. I like to eat ice cream 
+and candy. My favorite ice cream is vanilla and strawberry. I like to take pictures when I see something interesting or beautiful.
 In addition, I like to listen to music and cook. I learned how to cook rice, noodles, soup and many more. 
+
+# Email and school 
+* Email: angelal4844@hstat.org
+* School: High School of Telecommunication Arts and Technology 
+
