@@ -1,4 +1,4 @@
-## Angela Lu 
+#### Angela Lu 
 
 # Schedule 
 * Period 1: English 
