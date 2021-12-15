@@ -1,12 +1,12 @@
-#### Angela Lu 
+## Angela Lu (about-me)
 
-# Schedule 
+## Schedule 
 * Period 1: English 
 * Period 2: Algebra 2
 * Period 3: Lunch 
 * Period 4: Chemistry 
 * Period 5: Big History Project (BHP)
-* Period 6: Software Enginnering Program (SEP)
+* Period 6: Software Engineering Program (SEP)
 * Perod 7: Spanish 
 * Period 8: Global History 
 # Bio 
@@ -14,7 +14,17 @@ Hello! My name is Angela Lu. I am in the High school of Telecommunication Arts a
 and candy. My favorite ice cream is vanilla and strawberry. I like to take pictures when I see something interesting or beautiful.
 In addition, I like to listen to music and cook. I learned how to cook rice, noodles, soup and many more. 
 
-# Email and school 
+## Email and school 
 * Email: angelal4844@hstat.org
 * School: High School of Telecommunication Arts and Technology 
 
+## My favorite food (Fried Rice)
+Ingredients 
+* shrimp
+* corn
+* carrot 
+* rice
+* soy sauce 
+
+First, cook the rice. Then, cook the shrimp, corn, and carrot. When the shrimp, corn, and carrot is finished cooking, 
+pour the rice and shrimp, corn and corrot together and mix. Lastly, add soy sauce. 
